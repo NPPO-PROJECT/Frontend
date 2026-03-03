@@ -26,4 +26,13 @@ Working in a team of four, we followed an agile-like process:
 * **Design:** Mapping the user flow for recruitment.
 * **Implementation:** Splitting tasks between UI components and backend connectivity.
 * **Testing:** Ensuring data persistence and responsive layouts across different mobile screen sizes.
-* 
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/272e01c9-961f-43d4-870e-ec050d6bead7" width="175" />
+  <img src="https://github.com/user-attachments/assets/b5bf2f46-ca42-41d8-851b-ddade2044d0e" width="200" />
+  <img src="https://github.com/user-attachments/assets/5172e9a6-7dc8-4753-ae7f-ebd77c193e5a" width="200" />
+  <img src="https://github.com/user-attachments/assets/89716f56-173a-4a4d-9b75-aa3511469229" width="200" />
+  <img src="https://github.com/user-attachments/assets/a2b1856d-497e-4da4-ba3f-c14ca1aff732" width="200" />
+  <img src="https://github.com/user-attachments/assets/efdc5d5f-09df-4213-a8f5-61197d2736eb" width="200" />
+  <img src="https://github.com/user-attachments/assets/2c93a970-d17e-4ba2-827e-f109f6e23302" width="195" />
+</p>
